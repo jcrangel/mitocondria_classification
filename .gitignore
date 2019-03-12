@@ -1,0 +1,19 @@
+#ignore data image files
+mitocondrias
+
+logs
+checkpoints
+datasets
+pretrained_models
+
+nohup.out
+
+#
+*.pyc
+
+*.model
+*.res
+*.jpg
+*.png
+
+.ipynb_checkpoints
